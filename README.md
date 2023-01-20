@@ -16,7 +16,7 @@ This project has been made possible by voluntary work of the following companies
 - HSLU
 - Swiss Post
 - Adnovum
-- Esatus
+- esatus
 
 This repository is released under an [Apache 2 License](LICENSE)
 
